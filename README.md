@@ -32,11 +32,11 @@ This React TO-DO application has intentionally been broken to test your debuggin
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/broken-react-todo.git
+   git clone https://github.com/Gymforce-Technologies/react-todo-app.git
 
 2. **Navigate to the project directory:**
     ```bash
-    cd broken-react-todo
+    cd react-react-todo
     ```
 
 3. **Install dependencies:**
